@@ -1,0 +1,18 @@
+/*font-family: 'Open Sans', sans-serif;*/
+
+body {
+	background: #F59244;
+}
+
+h1 {
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 90px;	
+	color: #FAE6C5;
+}
+
+h2 {
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 90px;
+	color: #FAE6C5;
+	margin-top: -10px;
+}
